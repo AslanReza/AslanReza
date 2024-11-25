@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslan</h1>
-<h3 align="center">A Junior Frontend developer from Iran</h3>
+<h3 align="center">A Junior Frontend Developer From Iran</h3>
 
 - 🔭 I’m currently working on [Movieverse](https://github.com/AslanReza/Movieverse)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aslanreza77@gmail.com**
 
-- ⚡ Fun fact **Unpopular opinion: Office >>> Friends**
+- ⚡Unpopular opinion **Office >>> Friends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
