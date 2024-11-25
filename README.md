@@ -15,6 +15,7 @@
 
 #📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML &amp; CSS: The Underrated Skills That Made Learning JavaScript Easier](https://dev.to/aslanreza/html-css-the-underrated-skills-that-made-learning-javascript-easier-19pp)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
