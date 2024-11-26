@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **aslanreza77@gmail.com**
 
+- 📝 I regularly write articles on [dev.to/aslanreza](dev.to/aslanreza)
+
 - ⚡Unpopular opinion **Office >>> Friends**
 
 #📕 Blog posts
