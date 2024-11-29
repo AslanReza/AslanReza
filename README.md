@@ -17,6 +17,7 @@
 
 #📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ditch the jQuery Crutch and Embrace Vanilla JS](https://dev.to/aslanreza/ditch-the-jquery-crutch-and-embrace-vanilla-js-41dg)
 - [HTML &amp; CSS: The Underrated Skills That Made Learning JavaScript Easier](https://dev.to/aslanreza/html-css-the-underrated-skills-that-made-learning-javascript-easier-19pp)
 <!-- BLOG-POST-LIST:END -->
 
