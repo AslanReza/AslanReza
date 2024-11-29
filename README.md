@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslan</h1>
-<h3 align="center">A Junior Frontend Developer From Iran</h3>
+<h3 align="center">A Front-end developer(or at least that’s the plan!)</h3>
 
 - 🔭 I’m currently working on [Movieverse](https://github.com/AslanReza/Movieverse)
 
